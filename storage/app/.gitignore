@@ -1,0 +1,16 @@
+public/pictures/
+public/pictures/*
+public/profile/
+public/profile/*
+public/articles/*
+/public/articles/*
+public/categories/*
+/public/categories/*
+!.gitignore
+!public/articles-seeder/
+!public/articles-seeder/*
+!public/categories-seeder/
+!public/categories-seeder/*
+!public/authors-seeder/
+!public/authors-seeder/*
+

@@ -1,0 +1,16 @@
+*
+/pictures
+pictures
+pictures/*
+/pictures/*
+articles/*
+/articles/*
+categories/*
+/categories/*
+!articles-seeder/
+!articles-seeder/*
+!categories-seeder/
+!categories-seeder/*
+!authors-seeder/
+!authors-seeder/*
+!.gitignore
