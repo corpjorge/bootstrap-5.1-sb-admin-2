@@ -12,6 +12,10 @@
     "admin",
     "app"
   ],
+  "bugs": {
+    "url": "https://github.com/corpjorge/bootstrap-5.1-sb-admin-2/issues",
+    "email": "feedback@startbootstrap.com"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",
