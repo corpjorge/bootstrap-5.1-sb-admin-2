@@ -1,0 +1,22 @@
+{
+  "title": "SB Admin 2 bootstrap 5.1",
+  "name": "bootstrap-5.1-sb-admin-2",
+  "version": "1.0.0",
+  "keywords": [
+    "css",
+    "sass",
+    "html",
+    "responsive",
+    "theme",
+    "template",
+    "admin",
+    "app"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/corpjorge/bootstrap-5.1-sb-admin-2"
+  },
+  "dependencies": {
+  }
+}
